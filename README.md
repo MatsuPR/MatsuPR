@@ -12,7 +12,6 @@ He completado los 5 proyectos clave para demostrar mi dominio en maquetación mo
 
 * **[Book Inventory App](https://MatsuPR.github.io/build-a-book-inventory-app/)**: Gestión visual de datos. [Código](https://github.com/MatsuPR/build-a-book-inventory-app)
 * **[Product Landing Page](https://MatsuPR.github.io/build-a-product-landing-page/)**: Estructura comercial con CSS Grid. [Código](https://github.com/MatsuPR/build-a-product-landing-page)
-* **[Survey Form](https://MatsuPR.github.io/survey-form-project/)**: Formularios con validación y diseño adaptable. [Código](https://github.com/MatsuPR/survey-form-project)
 * **[Technical Documentation](https://MatsuPR.github.io/build-a-technical-documentation-page/)**: Documentación con navegación estructurada. [Código](https://github.com/MatsuPR/build-a-technical-documentation-page)
 * **[Playing Cards](https://MatsuPR.github.io/build-a-page-of-playing-cards/)**: Diseño visual avanzado con Flexbox. [Código](https://github.com/MatsuPR/build-a-page-of-playing-cards)
 
