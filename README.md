@@ -1,8 +1,20 @@
 # ¡Hola! Soy Carlos Matzumoto 👋 
 
-### Junior Frontend Developer en formación continua 🚀
+### Junior Frontend Developer | Especialista en Responsive Design 🚀
 
-Soy un desarrollador que está dando sus primeros pasos en el mundo tech, enfocado en construir la base de la web moderna: interfaces responsivas, limpias y accesibles. Acabo de certificarme en **Responsive Web Design** por **freeCodeCamp** (Enero 2026).
+Soy un desarrollador que está dando sus primeros pasos en el mundo tech, enfocado en construir la base de la web moderna: interfaces responsivas, limpias y accesibles. Certificado en **Responsive Web Design** por **freeCodeCamp** (Enero 2026).
+
+---
+
+## 📂 Proyectos de Certificación (fCC)
+
+He completado los 5 proyectos clave para demostrar mi dominio en maquetación moderna:
+
+* **[Book Inventory App](https://MatsuPR.github.io/build-a-book-inventory-app/)**: Gestión visual de datos. [Código](https://github.com/MatsuPR/build-a-book-inventory-app)
+* **[Product Landing Page](https://MatsuPR.github.io/build-a-product-landing-page/)**: Estructura comercial con CSS Grid. [Código](https://github.com/MatsuPR/build-a-product-landing-page)
+* **[Survey Form](https://MatsuPR.github.io/survey-form-project/)**: Formularios con validación y diseño adaptable. [Código](https://github.com/MatsuPR/survey-form-project)
+* **[Technical Documentation](https://MatsuPR.github.io/build-a-technical-documentation-page/)**: Documentación con navegación estructurada. [Código](https://github.com/MatsuPR/build-a-technical-documentation-page)
+* **[Playing Cards](https://MatsuPR.github.io/build-a-page-of-playing-cards/)**: Diseño visual avanzado con Flexbox. [Código](https://github.com/MatsuPR/build-a-page-of-playing-cards)
 
 ---
 
@@ -10,28 +22,17 @@ Soy un desarrollador que está dando sus primeros pasos en el mundo tech, enfoca
 
 * **Maquetación:** HTML5 Semántico y CSS3 Moderno.
 * **Layouts:** Dominio de Flexbox y CSS Grid.
-* **Diseño:** Enfoque Mobile-First y Diseño Responsivo.
+* **Diseño:** Enfoque Mobile-First y Responsive Design.
 * **Herramientas:** Git, GitHub, VS Code.
 * **En ruta de aprendizaje:** JavaScript (Lógica y DOM) y React.
 
 ---
 
-## 📂 Mis Proyectos de Certificación
-
-Aquí puedes ver cómo aplico mis conocimientos de diseño responsivo:
-
-* **[Book Inventory App](https://MatsuPR.github.io/book-inventory-app)**: Organización visual de datos.
-* **[Product Landing Page](https://MatsuPR.github.io/product-landing-page)**: Estructura comercial con CSS Grid.
-* **[Survey Form](https://MatsuPR.github.io/survey-form)**: Formularios con validación y diseño adaptable.
-* **[Technical Documentation](https://MatsuPR.github.io/technical-documentation)**: Navegación estructurada.
-* **[Playing Cards](https://MatsuPR.github.io/playing-cards)**: Práctica avanzada de Flexbox.
-
----
-
-## 📫 Contacto
+## 📫 Conecta conmigo
 * **LinkedIn:** [carlos-matzumoto-974731179](https://www.linkedin.com/in/carlos-matzumoto-974731179)
-* **Email:** [carlosmatzumoto89@gmail.com]
+* **GitHub:** [MatsuPR](https://github.com/MatsuPR)
+* **Correo:** [carlosmatzumoto89@gmail.com)
 
 ---
 
-*"Construyendo mi camino un commit a la vez."*
+*"Construyendo la web del futuro, un píxel a la vez."*
